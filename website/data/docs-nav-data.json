@@ -3,6 +3,23 @@
     "heading": "Get started"
   },
   {
+    "title": "Quickstart",
+    "routes": [
+      {
+        "title": "Consul on VMs",
+        "href": "/consul/tutorials/get-started-vms"
+      },
+      {
+        "title": "Consul on Kubernetes",
+        "href": "/consul/tutorials/get-started-kubernetes"
+      },
+      {
+        "title": "HCP Consul Dedicated",
+        "href": "/consul/tutorials/get-started-hcp"
+      }
+    ]
+  },
+  {
     "divider": true
   },
   {
